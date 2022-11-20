@@ -9,7 +9,21 @@
 
 - 🔭 I’m currently working as **system administrator**
 
-- 👯 I’m looking to collaborate on **cyber security projects (Automated Hacking Tools) >>> Cyber security and Pentesting Projects : } System Exploit Dev } Automated Intrusion And Advanced Persistent Threat { Automated System administration { Automated Hacking Kit { Automated Task And Process For all pentest types { Dev of all project on any language { WEB MOBILE DESKTOP EMBADDED HARDWARE } AI Automation Projects**
+- 👯 I’m looking to collaborate on **cyber security projects 
+
+(Automated Hacking Tools) 
+
+>>> Cyber security and Pentesting Projects : 
+
+} System Exploit Dev 
+} Automated Intrusion And Advanced Persistent Threat 
+} Automated System administration 
+
+{ Automated Hacking Kit 
+{ Automated Task And Process For all pentest types 
+{ Dev of all project on any language { WEB MOBILE DESKTOP EMBADDED HARDWARE 
+
+} AI Automation Projects**
 
 - 💬 Ask me about **Ethical Hacker Working as System Adminstator , More code More power More power More magic @DZ-HACKING-LAB**
 
